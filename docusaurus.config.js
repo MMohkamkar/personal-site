@@ -25,7 +25,7 @@ const config = {
   organizationName: 'MMohkamkar', // Usually your GitHub org/user name.
   projectName: 'personal-site', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  //trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
